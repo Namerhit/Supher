@@ -1,0 +1,237 @@
+.container {
+   height: 1080px;
+   width: 1920px;
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+
+
+
+}
+
+
+
+.captain_america {
+  
+ width: 270px;
+ height: 140px;
+ border-radius: 5px;
+ font: verdana;
+ background-image: linear-gradient(180deg, #4568DC, #B06AB3 );
+  position: relative;
+  
+}
+
+
+.cimg{
+height: 182px;
+position: relative;
+bottom: 40px;
+
+}
+
+
+.textcap{
+	size: 12px;
+	position: relative;
+	right: -125px;
+	
+	top: -180px;
+	color: white;
+
+
+
+
+}
+
+
+.textsteve {
+	color: rgba(255, 255,
+255, 0.5);
+	size: 9px;
+	position: relative;
+	top:-176px;
+	right: -144px;
+
+}
+
+.iron_man {
+  
+ width: 270px;
+ height: 140px;
+ border-radius: 5px;
+ font: verdana;
+ background-image: linear-gradient(180deg, #e52d27, #b31217 );
+  position: relative;
+  
+}
+
+.iimg {
+
+	height: 182px;
+position: relative;
+bottom: 40px;
+
+
+
+}
+
+
+
+.textir{
+	size: 12px;
+	position: relative;
+	right: -170px;
+	
+	top: -180px;
+	color: white;
+
+
+
+
+}
+
+
+
+.texttony {
+	
+	size: 9px;
+	position: relative;
+	top:-176px;
+	right: -165px;
+	color: rgba(255, 255,
+255, 0.5);
+
+}
+
+
+
+.black_widow {
+  
+ width: 270px;
+ height: 140px;
+ border-radius: 5px;
+ font: verdana;
+ background-image: linear-gradient( #000, #61045F );
+  position: relative;
+  
+}
+
+.widimg {
+
+	height: 182px;
+position: relative;
+bottom: 40px;
+
+
+
+}
+
+.textwid{
+	size: 12px;
+	position: relative;
+	right: -160px;
+	
+	top: -180px;
+	color: white;
+
+
+
+
+}
+
+.textnatasha {
+	
+	size: 9px;
+	position: relative;
+	top:-176px;
+	right: -115px;
+	color: rgba(255, 255,
+255, 0.5);
+
+}
+
+
+.spiderman {
+  
+ width: 270px;
+ height: 140px;
+ border-radius: 5px;
+ font: verdana;
+ background-image: linear-gradient(180deg, #e52d27, #000 );
+  position: relative;
+  
+}
+
+
+.spidimg {
+
+	height: 182px;
+position: relative;
+bottom: 40px;
+
+}
+
+
+
+.textspid{
+	size: 12px;
+	position: relative;
+	right: -170px;
+	
+	top: -180px;
+	color: white;
+}
+
+
+
+
+.textpeter {
+	
+	size: 9px;
+	position: relative;
+	top:-176px;
+	right: -160px;
+	color: rgba(255, 255,
+255, 0.5);
+
+}
+
+
+
+
+.captain_america:hover {
+   transform: scale(1.5, 1.5);
+  transition-duration: 3s;
+
+
+}
+
+.iron_man:hover {
+   transform: scale(1.5, 1.5);
+  transition-duration: 3s;
+
+
+}
+
+
+.black_widow:hover {
+   transform: scale(1.5, 1.5);
+  transition-duration: 3s;
+
+
+}
+.spiderman:hover {
+   transform: scale(1.5, 1.5);
+  transition-duration: 3s;
+
+
+}
+
+
+
+
+
+
+
+
